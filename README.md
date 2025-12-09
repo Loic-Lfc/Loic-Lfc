@@ -23,19 +23,19 @@
 
 ###
 
-<h3 align="left">Bonjour !</h3>
+<h3 align="center">Bonjour !</h3>
 
 ###
 
-<p align="left">Je m'appelle Loïc et j'ai 18 ans<br>Passioné de montage vidéo, j'utilise depuis 2 ans Premiere Pro et After Effects<br>Je suis aussi passioné par le monde de l'indé, autant par les jeux que par les séries</p>
+<p align="center">Je m'appelle Loïc et j'ai 18 ans<br>Passioné de montage vidéo, j'utilise depuis 2 ans Premiere Pro et After Effects<br>Je suis aussi passioné par le monde de l'indé, autant par les jeux que par les séries</p>
 
 ###
 
-<h3 align="left">≡ Les programmes que j'utilise</h3>
+<h3 align="center">≡ Les programmes que j'utilise</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
@@ -55,11 +55,11 @@
 
 ###
 
-<h3 align="left">≡ Les languages que je maitrise</h3>
+<h3 align="center">≡ Les languages que je maitrise</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
